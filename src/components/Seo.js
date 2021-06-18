@@ -39,7 +39,7 @@ const Seo = ({ description, lang, meta, title }) => {
           content: metaDescription,
         },
         {
-          name: `og:url`,
+          property: `og:url`,
           content: siteUrl + pathname,
         },
         {
