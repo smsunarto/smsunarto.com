@@ -25,7 +25,7 @@ const Seo = ({ description, lang, meta, title }) => {
   )
 
   const metaDescription = description || site.siteMetadata.description
-  const siteUrl = siteUrl || 'smsunarto.com'
+  const siteUrl = site.siteMetadata.siteUrl || 'smsunarto.com'
 
   return (
     <Helmet
