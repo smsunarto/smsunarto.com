@@ -12,6 +12,7 @@ const Seo = ({ description, lang, meta, title }) => {
           siteMetadata {
             title
             description
+            siteUrl
             social {
               twitter
             }
@@ -22,6 +23,7 @@ const Seo = ({ description, lang, meta, title }) => {
   )
 
   const metaDescription = description || site.siteMetadata.description
+  const siteUrl = siteUrl || 'smsunarto.com'
   const defaultTitle = site.siteMetadata?.title
 
   return (
