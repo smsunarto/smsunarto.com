@@ -5,6 +5,7 @@ import { useStaticQuery, graphql } from 'gatsby'
 import ogImage from '../images/og-image.png'
 
 const Seo = ({ description, lang, meta, title }) => {
+  const { pathname } = useLocation()
   const { site } = useStaticQuery(
     graphql`
       query {
@@ -24,7 +25,6 @@ const Seo = ({ description, lang, meta, title }) => {
 
   const metaDescription = description || site.siteMetadata.description
   const siteUrl = siteUrl || 'smsunarto.com'
-  const defaultTitle = site.siteMetadata?.title
 
   return (
     <Helmet
@@ -32,15 +32,18 @@ const Seo = ({ description, lang, meta, title }) => {
         lang,
       }}
       title={title}
-      titleTemplate={defaultTitle ? `%s | ${defaultTitle}` : null}
       meta={[
         {
           name: `description`,
           content: metaDescription,
         },
         {
+          name: `og:url`,
+          content: siteUrl + pathname,
+        },
+        {
           property: `og:image`,
-          content: ogImage,
+          content: siteUrl + ogImage,
         },
         {
           property: `og:title`,
