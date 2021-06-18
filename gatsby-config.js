@@ -75,6 +75,9 @@ module.exports = {
         trackingIds: [
           'G-Q660T4KVLW', // Google Analytics / GA
         ],
+        pluginConfig: {
+          anonymize_ip: true,
+        },
       },
     },
     {
