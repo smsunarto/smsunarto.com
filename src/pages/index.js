@@ -10,7 +10,7 @@ const Index = ({ data }) => {
 
   return (
     <Layout>
-      <Seo title="Home" />
+      <Seo title="Scott Moses Sunarto" />
       <div dangerouslySetInnerHTML={{ __html: html }} />
     </Layout>
   )
