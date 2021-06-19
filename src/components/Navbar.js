@@ -58,7 +58,7 @@ export const Navbar = () => {
       <NavbarLinkContainer>
         <NavbarLink to="/">home</NavbarLink>
         <NavbarLinkExternal href="https://blog.smsunarto.com">writings</NavbarLinkExternal>
-        <NavbarLinkExternal href="https://smsunarto.com/resume">resume</NavbarLinkExternal>
+        <NavbarLinkExternal href="https://go.smsunarto.com/resume">resume</NavbarLinkExternal>
       </NavbarLinkContainer>
     </NavbarContainer>
   )
