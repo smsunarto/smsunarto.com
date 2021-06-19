@@ -17,9 +17,13 @@ const NavbarLinkContainer = styled.div`
   display: flex;
   flex-flow: row wrap;
   margin-top: 5px;
-  justify-content: space-between;
-  width: 100%;
-  max-width: 300px;
+  --column-gap: 40px;
+  --row-gap: 10px;
+  margin: calc(var(--row-gap) / -2) calc(var(--column-gap) / -2);
+
+  > * {
+    margin: calc(var(--row-gap) / 2) calc(var(--column-gap) / 2);
+  }
 
   @media (max-width: 600px) {
     margin-top: 15px;
