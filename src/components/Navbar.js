@@ -8,7 +8,7 @@ const NavbarContainer = styled.header`
   flex-flow: row wrap;
   align-items: flex-start;
 
-  @media (max-width: 800px) {
+  @media (max-width: 600px) {
     flex-flow: column wrap;
   }
 `
@@ -17,9 +17,11 @@ const NavbarLinkContainer = styled.div`
   display: flex;
   flex-flow: row wrap;
   margin-top: 5px;
-  gap: 0px 30px;
+  justify-content: space-between;
+  width: 100%;
+  max-width: 300px;
 
-  @media (max-width: 800px) {
+  @media (max-width: 600px) {
     margin-top: 15px;
   }
 `
@@ -40,7 +42,7 @@ const LogoImage = styled.img`
   margin-right: 50px;
   max-width: 200px;
 
-  @media (max-width: 800px) {
+  @media (max-width: 600px) {
     margin-right: 0px;
   }
 `
