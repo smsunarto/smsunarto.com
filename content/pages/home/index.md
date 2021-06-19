@@ -6,9 +6,9 @@ description: 'Hello World'
 
 # Hi there, I’m Scott.
 
-Before university, I took a gap year to work as a software engineer at a cryptocurrency exchange in Asia. I was also a part of the founding engineering team of [LandX](https://landx.id), Indonesia’s largest real estate equity crowdfunding platform.
+I'm a rising junior at UC Berkeley studying EECS. On the side, I spend most of my time learning and hacking on blockchain-related projects. I helped create [Dark Forest](https://twitter.com/darkforest_eth) and worked as a software engineer intern at [Uniswap](https://uniswap.org)
 
-Now, I'm a rising junior at UC Berkeley studying EECS. On the side, I spend most of my time learning and hacking on blockchain-related projects. I helped create [Dark Forest](https://twitter.com/darkforest_eth) and worked as a software engineer intern at [Uniswap](https://uniswap.org)
+Before university, I took a gap year to work as a software engineer at a cryptocurrency exchange in Asia. I was also a part of the founding engineering team of [LandX](https://landx.id), Indonesia’s largest real estate equity crowdfunding platform.
 
 At my free time, I’m an amateur cook with a soft spot for Chinese and Japanese cuisines. I also write occassionally to organize my cluttered thoughts.
 <br />
