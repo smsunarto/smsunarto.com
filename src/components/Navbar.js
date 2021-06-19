@@ -57,7 +57,9 @@ export const Navbar = () => {
       <LogoImage alt="Scott Moses Sunarto logo" src={logo} />
       <NavbarLinkContainer>
         <NavbarLink to="/">home</NavbarLink>
-        <NavbarLinkExternal href="https://blog.smsunarto.com">writings</NavbarLinkExternal>
+        <NavbarLinkExternal href="https://blog.smsunarto.com" target="_blank">
+          writings
+        </NavbarLinkExternal>
         <NavbarLinkExternal href="https://go.smsunarto.com/resume">resume</NavbarLinkExternal>
       </NavbarLinkContainer>
     </NavbarContainer>
