@@ -26,7 +26,7 @@ Unlocking the new paradigm of crypto gaming
 <br/>
 
 **[Angel Investor/Advisor](https://twitter.com/smsunarto)**
-- Select portfolios: **[LooksRare](https://looksrare.org/), **[IYK](https://twitter.com/__iyk)**, **[Matrix](https://twitter.com/YouAreMatrix)**
+- Select portfolios: **[LooksRare](https://looksrare.org/)**, **[IYK](https://twitter.com/__iyk)**, **[Matrix](https://twitter.com/YouAreMatrix)**
 - Crypto Investments Advisor at Global Founders Capital
 <br/>
 
