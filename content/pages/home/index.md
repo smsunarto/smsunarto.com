@@ -6,15 +6,20 @@ description: 'Hello World'
 
 # Hi there, I’m Scott.
 
-I'm a rising junior at UC Berkeley studying EECS. On the side, I spend most of my time learning and hacking on blockchain-related projects. I helped create [Dark Forest](https://twitter.com/darkforest_eth). In the past I've worked as a software engineer intern at [Uniswap](https://uniswap.org) and security engineer at [Trail of Bits](https://trailofbits.com).
+I'm a junior at UC Berkeley studying EECS. Currently, I'm building **[Lattice](https://latice.xyz)** 
 
-Before university, I took a gap year to work as a software engineer at a cryptocurrency exchange in Asia. I was also a part of the founding engineering team of [LandX](https://landx.id), Indonesia’s largest real estate equity crowdfunding platform.
+I helped create [Dark Forest](https://twitter.com/darkforest_eth), worked as a security engineer at **[Trail of Bits](https://trailofbits.com)**, and interned at **[Uniswap](https://uniswap.org)**.
 
-At my free time, I’m an amateur cook with a soft spot for Chinese and Japanese cuisines. I also write occassionally to organize my cluttered thoughts.
+On the side, I angel invest in founders I like and my smart friends.
+
+One week before I started university, I got a job offer to work full-time as a software engineer. Subsequently, I withdrew from college before the first day of class, cancelled my flights, and decided to take a gap year. In that chapter of my life, I worked as a software engineer at a cryptocurrency exchange in Asia and was also a part of the founding engineering team of **[LandX](https://landx.id)**, Indonesia’s largest equity crowdfunding platform.
+
+At my free time, I’m an amateur cook with a soft spot for Chinese and Japanese cuisines.
 <br />
 
 **Contacting me**
 If you are still here and I don’t know you yet, let’s chat!
+
 The best place to reach me is through my [Twitter](https://twitter.com/smsunarto) or my email at [my first name] @ smsunarto.com.
 
 ---
@@ -22,7 +27,7 @@ The best place to reach me is through my [Twitter](https://twitter.com/smsunarto
 # Currently
 
 **[Lattice](https://twitter.com/latticexyz)**
-Unlocking the new paradigm of crypto gaming
+Building the new paradigm in crypto gaming.
 <br/>
 
 # Previously
@@ -43,5 +48,5 @@ Helped create Dark Forest, a decentralized MMORTS game on the Ethereum blockchai
 A part of the founding software engineering team of LandX, Indonesia’s largest real estate equity crowdfunding (ECF) platform. Shipped the first mobile app and built various internal toolings.
 <br/>
 
-**NuMoney Exchange**
+**[NuMoney Exchange]()**
 Wrote and maintain arbitrage/market making algorithms, integrated new cryptocurrency assets into the exchange, and built various internal toolings.
