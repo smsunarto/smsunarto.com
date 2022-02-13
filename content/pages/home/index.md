@@ -8,7 +8,7 @@ description: 'Hello World'
 
 I'm a junior at UC Berkeley studying EECS. Currently, I'm building **[Lattice](https://latice.xyz)** 
 
-I helped create [Dark Forest](https://twitter.com/darkforest_eth), worked as a security engineer at **[Trail of Bits](https://trailofbits.com)**, and interned at **[Uniswap](https://uniswap.org)**.
+I helped create **[Dark Forest](https://twitter.com/darkforest_eth)**, worked as a security engineer at **[Trail of Bits](https://trailofbits.com)**, and interned at **[Uniswap](https://uniswap.org)**.
 
 On the side, I angel invest in founders I like and my smart friends.
 
